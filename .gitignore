@@ -1,0 +1,28 @@
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+
+# Build output
+bin/
+target/
+out/
+
+# Gradle/Maven
+.gradle/
+build/
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS & logs
+.DS_Store
+*.log
+
+# Drivers / temporary
+drivers/
